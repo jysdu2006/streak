@@ -19,7 +19,7 @@
  		p:nth-child(2n+1){
  			-webkit-columns:200px 3;
  			-webkit-column-gap:3em;
- 			-webkit-column-rule:2px dashed blue;
+ 			-webkit-column-rule:2px solid blue;
  		}
  	</style>
  </head>
